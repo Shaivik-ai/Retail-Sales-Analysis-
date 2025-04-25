@@ -3,7 +3,11 @@
 A complete end-to-end data analytics project using SQL, Python, Excel, and Power BI to analyze retail alcohol sales and uncover business insights.
 
 ## 📁 Project Structure
-   data/Cleaned_Retail_Sales_for_PowerBI.csv
+ 
+- `data/` – Cleaned dataset used in the dashboard
+- `notebooks/` – Python file for cleaning and EDA
+- `sql/` – SQL scripts used for analysis
+- `dashboard/` – Power BI dashboard (.pbix file) 
 
 
 ## 🧠 Tools & Tech
