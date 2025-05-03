@@ -1,4 +1,4 @@
-# 🛍️ Retail Business Sales Analytics
+# 🛍️ Project 1: Retail Business Sales Analyticss
 
 A complete end-to-end data analytics project using SQL, Python, Excel, and Power BI to analyze retail alcohol sales and uncover business insights.
 
@@ -32,6 +32,33 @@ A complete end-to-end data analytics project using SQL, Python, Excel, and Power
 - Monthly Trends
 - Top Performing Categories
 - Regional Sales Breakdown
+
+
+## 📉 Project 2: Customer Churn Analysis (Telecom Industry)
+Objective:
+To predict customer churn using machine learning and provide actionable retention strategies.
+
+## Tech Stack:
+
+- 🐍 Python (Scikit-learn, ELI5, SHAP)
+
+- 🧠 SQL (Data Aggregation & Cleanup)
+
+- 📊 Power BI (Churn Segmentation Dashboard)
+
+## Key Highlights:
+
+Built a classification model to predict churn
+
+Interpreted results using SHAP/ELI5 for explainability
+
+Segmented customers into At Risk, Loyal, and Dormant
+
+Final Recommendations & Insights shared via PPT + Dashboard
+
+
+## 📸 Dashboard Preview:
+![Retail Business Sales Analysis](C:\Users\SHAIVIK\Pictures\Screenshots\Retail Business Sales Analysis.png)
 
 ## 🛠 How to Use
 
