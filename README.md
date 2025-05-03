@@ -1,14 +1,16 @@
-# 🛍️ Project 1: Retail Business Sales Analyticss
-
-A complete end-to-end data analytics project using SQL, Python, Excel, and Power BI to analyze retail alcohol sales and uncover business insights.
-
 ## 📁 Project Structure
- 
+
+- `customer-churn-analysis/customer-churn-analysis-project` - All Customer Churn Analysis Files
+
+ALL Retail Business Sales Analysis files here:
 - `data/` – Cleaned dataset used in the dashboard
 - `notebooks/` – Python file for cleaning and EDA
 - `sql/` – SQL scripts used for analysis
-- `dashboard/` – Power BI dashboard (.pbix file) 
+- `dashboard/` – Power BI dashboard (.pbix file)
 
+# 🛍️ Project 1: Retail Business Sales Analyticss
+
+A complete end-to-end data analytics project using SQL, Python, Excel, and Power BI to analyze retail alcohol sales and uncover business insights.
 
 ## 🧠 Tools & Tech
 
