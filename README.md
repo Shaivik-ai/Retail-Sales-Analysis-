@@ -33,6 +33,10 @@ A complete end-to-end data analytics project using SQL, Python, Excel, and Power
 - Top Performing Categories
 - Regional Sales Breakdown
 
+## 📸 Dashboard Preview:
+![Retail Business Sales Analysis](dashboard/Retail%20Business%20Sales%20Analysis.png)
+
+
 
 ## 📉 Project 2: Customer Churn Analysis (Telecom Industry)
 Objective:
@@ -58,7 +62,10 @@ Final Recommendations & Insights shared via PPT + Dashboard
 
 
 ## 📸 Dashboard Preview:
-![Retail Business Sales Analysis](C:\Users\SHAIVIK\Pictures\Screenshots\Retail Business Sales Analysis.png)
+![Customer Churn Segmentation](customer-churn-analysis/customer-churn-analysis-project/Customer%20Churn%20Segmentation.png)
+
+
+
 
 ## 🛠 How to Use
 
